@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #FDE9E3;
+  background-color: #002fff;
 }
 a {
 	text-decoration: none;
@@ -21,7 +21,7 @@ a {
 
 a:before {
 	content: 'By Raquel Limâ ❤️';
-	color:#FBAD60;
+	color:#f5f2ef;
 	background-color:#F8DEBE;
 	display: flex;
 	align-items: center;
